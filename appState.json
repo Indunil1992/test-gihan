@@ -1,0 +1,89 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "b6d90110-5242-4730-aca7-808d25f71f08": {
+        "id": "b6d90110-5242-4730-aca7-808d25f71f08",
+        "parent": null,
+        "name": "test-gihan.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test-gihan.py",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 41
+        },
+        "config": {
+          "runtime": "python37",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "handler": "handler"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "430c4b14-50b9-44a5-9838-1be559a0dafe": {
+        "id": "430c4b14-50b9-44a5-9838-1be559a0dafe",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "9cb07a13-eb24-4af7-a65f-c9dfde79f40a": {
+        "id": "9cb07a13-eb24-4af7-a65f-c9dfde79f40a",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "b6d90110-5242-4730-aca7-808d25f71f08"
+    ],
+    "currentFileId": "b6d90110-5242-4730-aca7-808d25f71f08",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test-gihan",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1583140934375
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test-gihan",
+      "url": "https://github.com/Indunil1992/test-gihan"
+    }
+  }
+}
